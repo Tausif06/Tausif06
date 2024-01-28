@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tausif06
-- 👀 I’m interested in ...cybersecurity 
+- 👀 I’m interested in web development.
 - 🌱 I’m currently doing under graduation in computer science 
 - 💞️ I’m looking to learn about anything informative 
 - 📫 How to reach me ...
